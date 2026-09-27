@@ -1,0 +1,7 @@
+{
+  "name": "tophcomm-digicard",
+  "private": true,
+  "version": "1.0.0",
+  "description": "DigiCard commercial readiness build 2026.09.27-r2",
+  "type": "module"
+}
