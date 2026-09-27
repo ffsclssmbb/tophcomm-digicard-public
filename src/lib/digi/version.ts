@@ -1,0 +1,9 @@
+export const PRODUCT_NAME = "DigiCard";
+export const PRODUCT_FAMILY = "Digi Hub";
+export const PRODUCT_VERSION = "1.0.0";
+export const BUILD_VERSION = "2026.09.27-r2";
+export const RELEASE_DATE = "2026-09-27";
+export const BRAND_OWNER = "FS SOFTwares";
+export const DISTRIBUTION_BRAND = "Tophcomm Systems";
+export const PRIMARY_DOMAIN = "tophcomm.systems";
+export const COMMERCIAL_PASS = "commercial-readiness-roadmap-executed";
